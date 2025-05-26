@@ -15,7 +15,7 @@ A great collection of cutting-edge studies on multi-modal LLMs
 
 ## Instruction-Tuned Vision-Language Models
 
-- [ ] InstructBLIP: towards general-purpose vision-language models with instruction tuning (NeurIPS 2023) [[paper]](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
+- [ ] InstructBLIP: towards general-purpose vision-language models with instruction tuning (NeurIPS 2023) [[paper]](https://arxiv.org/pdf/2305.06500)[[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
 
 - [ ] Visual Instruction Tuning (NeurIPS 2023) [[paper]](https://arxiv.org/pdf/2304.08485)[[Code]](https://github.com/haotian-liu/LLaVA) 
 
