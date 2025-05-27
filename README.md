@@ -23,10 +23,10 @@ A great collection of cutting-edge studies on multi-modal LLMs
 
 - [ ] MINIGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (ICLR 2024) [[paper]](https://openreview.net/pdf?id=1tZbq88f27)[[Code]](https://github.com/Vision-CAIR/MiniGPT-4)
 
-- [ ] mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality () [[paper]](https://arxiv.org/pdf/2304.14178) [[Code]](https://github.com/X-PLUG/mPLUG-Owl)
+- [ ] mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality [[paper]](https://arxiv.org/pdf/2304.14178) [[Code]](https://github.com/X-PLUG/mPLUG-Owl)
 
 - [ ] mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration (CVPR 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_mPLUG-Owl2_Revolutionizing_Multi-modal_Large_Language_Model_with_Modality_Collaboration_CVPR_2024_paper.pdf)[[Code]](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)
 
-
+- [ ] mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models [[paper]](hhttps://arxiv.org/pdf/2408.04840)[[Code]](https://github.com/X-PLUG/mPLUG-Owl)
 
 
